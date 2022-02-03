@@ -1,3 +1,1 @@
-### AODQ
-
 graphics dev
